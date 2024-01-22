@@ -1,0 +1,74 @@
+[
+    {
+        "name":"Bussiness One",
+        "image":"/images/homeImg1.jpg",
+        "avgRating":2,
+        "currency":"NRP",
+        "price":"100",
+        "priceType":"per hr",
+        "serviceType":"Plumber",
+        "description":"This is a dummy description about this shopLorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quo, nemo voluptatibus velit placeat temporibus pariatur delectus minus quis recusandaemollitia consequatur! Quo ipsum, perferendis aliquid consequuntur laborum illum enim.",
+        "information":{
+            "location":"Kapan",
+            "serviceType":"Plumber",
+            "contactNum":"9812345678"
+        },
+        "comment":
+        [
+            {
+                "userName":"User One",
+                "comment":"This is test comment",
+                "rating":4,
+                "date":"1 day ago"
+            },
+            {
+                "userName":"User Two",
+                "comment":"This is test comment",
+                "rating":3,
+                "date":"2 day ago"
+            },
+            {
+                "userName":"User Three",
+                "comment":"This is test comment",
+                "rating":2,
+                "date":"3 month ago"
+            }
+        ]
+    },
+    {
+        "name":"Bussiness Two",
+        "image":"/images/homeImg2.jpg",
+        "serviceType":"HVAC",
+        "description":"This is a dummy description about this shopLorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quo, nemo voluptatibus velit placeat temporibus pariatur delectus minus quis recusandaemollitia consequatur! Quo ipsum, perferendis aliquid consequuntur laborum illum enim.",
+        "currency":"Rs",
+        "price":"100",
+        "priceType":"per day",
+        "avgRating":4,
+        "information":{
+            "location":"Kapan",
+            "serviceType":"Plumber",
+            "contactNum":"9812345678"
+        },
+        "comment":
+        [
+            {
+                "userName":"User One",
+                "comment":"This is test comment",
+                "rating":4,
+                "date":"1 day ago"
+            },
+            {
+                "userName":"User Two",
+                "comment":"This is test comment",
+                "rating":3,
+                "date":"2 day ago"
+            },
+            {
+                "userName":"User Three",
+                "comment":"This is test comment",
+                "rating":2,
+                "date":"3 month ago"
+            }
+        ]
+    }
+]

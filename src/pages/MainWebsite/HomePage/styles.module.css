@@ -1,0 +1,27 @@
+#home {
+    position: relative;
+    top: -82px;
+    height: 110vh;
+    width: 100%;
+    z-index: 0;
+}
+
+.mainText {
+    font-size: 4rem;
+}
+
+.mainContainer {
+    padding: 0px 5% 5%;
+}
+
+@media screen and (max-width:980px) {
+    .mainText {
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .mainText {
+        font-size: 1.5rem;
+    }
+}

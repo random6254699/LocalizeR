@@ -1,0 +1,23 @@
+[
+    {
+        "userName":"Demo User",
+        "email":"user@localizer.com",
+        "password":"user@123",
+        "userType":"user",
+        "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.I-u_fFFWLpuywjIxGHcEY-lSHWImD4XlsdFm6RQD_fo"
+    },
+    {
+        "userName":"Demo marchent",
+        "email":"marchent@localizer.com",
+        "password":"marchent@123",
+        "userType":"marchent",
+        "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.lcCD2Q6fzgoG4-Ta12F_6mJAUz9BWlyltQMkEobEzSg"
+    },
+    {
+        "userName":"Demo Admin",
+        "email":"admin@localizer.com",
+        "password":"admin@123",
+        "userType":"admin",
+        "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.-sdnYOTuFSrKD-tw1VbT73gMNj4V2Vj-FIgBfpCMEp0"
+    }
+]
